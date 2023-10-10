@@ -67,3 +67,13 @@ This makes it easier for other developers to understand the code and collaborate
 Though not explicitly mentioned in the initial design, proper error handling should be implemented to handle various scenarios, such as invalid input, database errors, or server issues.
 The API should return appropriate error responses with relevant status codes and error messages to guide the clients.
 These features collectively provide a foundation for managing patient records, doctor authentication, and report creation for COVID-19 patients in the hospital. Depending on the specific requirements of the hospital and the application, additional features and functionalities can be added to enhance the API further.
+
+***How to start***
+i. download the repo and extract the zip 
+ii.open the folder in VS code
+iii.open terminal 
+      a. npm init (in terminal)
+      b. npm i express
+      c.npm i mongoose
+      d.npm start
+
